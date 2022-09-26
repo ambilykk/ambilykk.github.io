@@ -1,4 +1,4 @@
-[English](./index/md) [French](./fr/index.md)
+[English](./index.md) [French](./fr/index.md)
 
 ## About GitHub's products ##
 GitHub offers free and paid products for storing and collaborating on code. Some products apply only to personal accounts, while other plans apply only to organization and enterprise accounts. For more information about accounts, see "Types of GitHub accounts."
